@@ -1,0 +1,12 @@
+C:\Users\John\Desktop\Tutorial6\AP\bin\Debug\Audio picturer.exe
+C:\Users\John\Desktop\Tutorial6\AP\bin\Debug\Audio picturer.pdb
+C:\Users\John\Desktop\Tutorial6\AP\bin\Debug\NAudio.dll
+C:\Users\John\Desktop\Tutorial6\AP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Tutorial6\AP\obj\x86\Debug\Tutorial6.Form1.resources
+C:\Users\John\Desktop\Tutorial6\AP\obj\x86\Debug\audio_picturer.Properties.Resources.resources
+C:\Users\John\Desktop\Tutorial6\AP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\John\Desktop\Tutorial6\AP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Desktop\Tutorial6\AP\obj\x86\Debug\Audio picturer.exe
+C:\Users\John\Desktop\Tutorial6\AP\obj\x86\Debug\Audio picturer.pdb
+C:\Users\John\Desktop\Tutorial6\on-audio-picture\AP\obj\x86\Debug\Audio picturer.exe
+C:\Users\John\Desktop\Tutorial6\on-audio-picture\AP\obj\x86\Debug\Audio picturer.pdb

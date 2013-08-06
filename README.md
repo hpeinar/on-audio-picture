@@ -1,4 +1,12 @@
 on-audio-picture
 ================
+Make a screenshot when output audio exceeds given threshold.
 
-Picture screens on audio activation
+System requirments
+================
+.NET Framework 4
+NAudio.dll
+
+Credits
+================
+[NAudio.dll](http://naudio.codeplex.com/)
