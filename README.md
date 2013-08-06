@@ -10,3 +10,10 @@ NAudio.dll
 Credits
 --
 [NAudio.dll](http://naudio.codeplex.com/)
+
+
+Todo
+--
+- Bubble screenshot saving
+- Make it possible to screenshot selected window / area
+- Make it possible to screenshot multiple screens
